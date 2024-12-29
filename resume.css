@@ -1,0 +1,206 @@
+
+
+/* in this page change the color of progress lane and main class of education position and down the sentance I'm abdul basit web-developer  */
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    align-items: center;
+    
+    background-color: #10B57C;
+    height:40vh;
+}
+#main{
+   margin: 60px;
+    padding: 40px;
+    padding-right: 70px;
+}
+#a{
+    color:white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main p{ display: inline-block;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+.li{
+display: flex;
+    position: absolute;
+    right: 50px;
+    top: 100px;    
+}
+.li ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+.img{
+    display:flex;
+    margin:0 auto;
+    width: 60vw;
+    height: 55vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+#ab{
+   color:#10B57C; 
+}
+#b{
+    margin-top: 10px;
+}
+#p2 span{
+    font-weight: bolder;
+}
+#c{
+    color:#10B57C;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px auto;
+    text-align: center;
+}
+/* this is the second main div which contain the progress lane */
+.second{ 
+    text-align: center;
+    /* margin:100px ; */
+    /* margin-right: 100px; */
+}
+.progress{
+    margin:auto;
+}
+#d{
+    margin:0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#e{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#f{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#g{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#h{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+/* Educatoin poration start from here */
+#i{
+    /* Education word */
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:#10B57C;
+}
+.edu{
+    /* Main Education Div */
+    text-align: center;
+    padding-left: 62px;
+}
+.bs{ 
+     justify-content: center;
+    align-items: center;
+    width:40rem;
+}
+#j{
+    /* bs IT word */
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:#10B57C;
+}
+.bs p{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.year1{
+    width: 20vh;
+    height: 5vw;
+    align-items: center;
+    background-color: #10B57C;
+    color: white;
+    padding: 20px;
+    margin-left:13rem;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size:20px;
+}
+.fsc{
+      position: relative;
+      left:50vw;
+      bottom: 180px;
+    justify-content: center;
+    align-items: center;
+    width:40rem;
+}
+#k{ 
+     /* fsc word */
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:#10B57C;
+}
+.fsc p{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+.year2{
+    width: 20vh;
+    height: 5vw;
+    align-items: center;
+    background-color: #10B57C;
+    color: white;
+    padding: 20px;
+    margin-left:13rem;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size:20px;
+}
+.matric{ 
+    justify-content: center;
+   align-items: center;
+   width:40rem;
+   position:relative ;
+   top: 20px;
+   left: 20vw;
+
+}
+#l{
+   /*secondary school word*/
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   color:#10B57C;
+}
+.matric p{
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+}
+.year3{
+   width: 20vh;
+   height: 5vw;
+   align-items: center;
+   background-color: #10B57C;
+   color: white;
+   padding: 20px;
+   margin-left:13rem;
+   border-radius: 20px;
+   font-weight: bold;
+   font-size:20px;
+}
+

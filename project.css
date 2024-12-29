@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.body{
+    background-color: #F3F3F3;
+}
+.nav{
+    background-color:#10B57C;
+    height:15rem;
+    
+}
+.nav h1{
+    position: absolute;
+    top: 90px;
+    left: 40rem;
+    font-weight: bolder;
+    font-size: 50px;
+    color: white;
+
+}
+.nav span{
+    font-size: 100px;
+    font-family:'Times New Roman', Times, serif;
+}
+.login1{
+    
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+.in1{ 
+    position: relative;
+    bottom: 70px;
+    left: 50px;
+    width:300px ;
+    height:250px ;
+    background-color: #10B57C;
+    border-radius: 20px;
+}
+.in1 h1{
+    margin: 10px;
+    font-family:'Times New Roman', Times, serif;
+    margin: 30px;
+    font-weight: bolder;
+    font-size: 40px;
+    color: white;
+}
+.in1 p{
+    margin: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+.login2{
+    position: absolute;
+    left: 30rem;
+    top: 1700px;
+    margin-top: 100px;
+   
+    border-radius: 20px;
+    object-fit: cover;
+}
+.in2{ 
+    position:relative;
+    bottom: 70px;
+    left: 50px;
+    width:300px ;
+    height:250px ;
+    background-color: #10B57C;
+    border-radius: 20px;
+}
+.in2 h1{
+    margin: 10px;
+    font-family:'Times New Roman', Times, serif;
+    margin: 30px;
+    font-weight: bolder;
+    font-size: 40px;
+    color: white;
+}
+.in2 p{
+    margin: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+.login3{
+    position: absolute;
+    left: 60rem;
+    top: 1700px;
+    margin-top: 100px;
+   
+    border-radius: 20px;
+    object-fit: cover;
+}
+.in3{ 
+    position:relative;
+    bottom: 70px;
+    left: 50px;
+    width:300px ;
+    height:250px ;
+    background-color: #10B57C;
+    border-radius: 20px;
+}
+.in3 h1{
+    margin: 10px;
+    font-family:'Times New Roman', Times, serif;
+    margin: 30px;
+    font-weight: bolder;
+    font-size: 40px;
+    color: white;
+}
+.in3 p{
+    margin: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}

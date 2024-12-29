@@ -1,0 +1,100 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('./images (3).jpg');
+    background-size: cover;
+    background-position:center;
+    height:100vh; 
+  
+}
+.nav{
+    opacity:0.5;
+    display: flex;
+    height: 120px;
+    background-color:rgb(21, 22, 20)
+    
+        
+}
+.nav h1{
+   
+    margin-right:500px ;
+    color:white;
+}
+#logo span{
+    margin-left:100px;
+font-size: 100px;
+}
+.nav ul{
+    float: right;
+    display: flex;
+}
+.nav ul li {
+    list-style: none;
+align-items: center;
+display: inline-block;
+font-weight: bolder;
+font-size: 25px;
+padding:25px;
+margin-top: 49px;
+}
+.nav a{
+    color:rgb(244, 237, 237);
+    border: none;
+    text-decoration: none;
+}
+.para1 p{
+    color: white;
+}
+.para1{
+    margin: 10vw;
+    display: inline-block;
+}
+.para1 h1{
+    color: #FCBD3C;
+}
+.para1 p{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#p1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#a{
+    color: #FCBD3C;
+}
+#b a{
+    text-decoration: none;
+    color:white;
+}
+#b{ 
+    width:200px;
+    height:80px;
+    font-weight: bolder;
+    font-size: 25px;
+    border: none;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-left:150px;
+    background-color:#FCBD3C;
+}
+.hire-me-btn #b:hover{
+    cursor:pointer;
+    background-color:#664d1c;
+}
+
+.pic{
+ display: flex;
+justify-content: right;
+margin-bottom: 300pxpx;
+position: absolute;
+right:60px;
+top:230px;
+bottom:20px;
+opacity:0.5;
+background:transparent;
+}
